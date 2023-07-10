@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![badge](https://img.shields.io/badge/Hanbit%20Cat-Hello%20GitHub-orange)
+
 
 ### I'm Gyudo Park and 
 

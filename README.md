@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 
 
-## I'm Gyudo Park and 
+### I'm Gyudo Park and 
 
 - 🔭 I’m currently working on deep learning model compression.
 - 🌱 I’m currently learning lightweight Transformer family models.

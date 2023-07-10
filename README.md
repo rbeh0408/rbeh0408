@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**rbeh0408/rbeh0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## I'm Gyudo Park and 
 
